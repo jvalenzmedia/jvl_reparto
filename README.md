@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/license-MIT-22c55e?style=flat-square)
 
 **Trabajo de repartidor multi-framework para FiveM.**
-Es el proyecto final (capítulo 28) del libro **Lua para FiveM** de JVL MediaCode.
+Es el proyecto final (capítulo 28) del libro **[Lua para FiveM](https://www.zeltrade.shop/catalog/producto.php?slug=lua-para-fivem-de-cero-a-tu-primer-script-edici-on-2026)** de JVL MediaCode ([muestra gratis](https://github.com/jvalenzmedia/lua-para-fivem-muestra)).
 
 </div>
 
